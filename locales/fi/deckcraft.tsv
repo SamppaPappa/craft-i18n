@@ -1,0 +1,674 @@
+# Suomi (fi) interface catalog for DeckCraft.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+	  Fixed date (empty = update automatically):	  Kiinteä päivämäärä (tyhjä = päivitä automaattisesti):
+	  Footer text:	  Alatunnisteen teksti:
+	  Present  	  Esitä  
+	 (not checked)	 (ei tarkistettu)
+	 — Edited	 — Muokattu
+	(no spelling suggestions)	(ei oikeinkirjoitusehdotuksia)
+	+ Add	+ Lisää
+	+ New Comment	+ Uusi kommentti
+	+ Row	+ Rivi
+	+ Series	+ Arvosarja
+	3-D	3D
+	3-D Format	3D-muotoilu
+	3-D Rotation	3D-kierto
+	About DeckCraft	Tietoja DeckCraftista
+	Accept	Hyväksy
+	Accept Revision	Hyväksy muutos
+	Accept\nAll	Hyväksy\nkaikki
+	Accessibility Checker	Saavutettavuuden tarkistus
+	Account	Tili
+	Action	Toiminto
+	Action Buttons	Toimintopainikkeet
+	Action Settings	Toimintoasetukset
+	Action Settings…	Toimintoasetukset…
+	Add a title with a picture or some text to get layout ideas.	Lisää otsikko ja kuva tai vähän tekstiä, niin saat asetteluideoita.
+	Add Animation	Lisää animaatio
+	Add Pictures…	Lisää kuvia…
+	Add Point	Lisää piste
+	Add Section	Lisää osio
+	Add Shape	Lisää muoto
+	Add\nAnimation	Lisää\nanimaatio
+	Address:	Osoite:
+	Adjust Shape	Säädä muotoa
+	After	Ajan kuluttua
+	After:	Ajan kuluttua:
+	Album theme	Albumin teema
+	Align Cell Text	Tasaa solun teksti
+	All caps	Versaalit
+	ALL pictures black and white	KAIKKI kuvat mustavalkoisina
+	Alt Text	Vaihtoehtoinen teksti
+	Alt text	Vaihtoehtoinen teksti
+	Alt\nText	Vaihtoehtoinen\nteksti
+	An open-source, clean-room project. Not affiliated with Microsoft.	Avoimen lähdekoodin clean room -projekti. Ei yhteydessä Microsoftiin.
+	Animation Painter (double-click to keep it on)	Animaatiosivellin (kaksoisnapsautus pitää sen käytössä)
+	Animation Styles	Animaatiotyylit
+	Animation\nPainter	Animaatio-\nsivellin
+	Animation\nPane	Animaatio-\npaneeli
+	Animations	Animaatiot
+	Applies to this presentation's theme colours.	Koskee tämän esityksen teemavärejä.
+	Apply Animation	Käytä animaatiota
+	Apply Design Idea	Käytä suunnitteluideaa
+	Apply only to this picture	Käytä vain tähän kuvaan
+	Apply to All	Käytä kaikkiin
+	Apply To All	Käytä kaikkiin
+	Apply\nTo All	Käytä\nkaikkiin
+	Artistic Effects	Taiteelliset tehosteet
+	Artistic\nEffects	Taiteelliset\ntehosteet
+	As:	Muodossa:
+	Audio from File…	Ääni tiedostosta…
+	AutoCorrect	Automaattinen korjaus
+	AutoCorrect as you type	Korjaa automaattisesti kirjoitettaessa
+	AutoCorrect Options…	Automaattisen korjauksen asetukset…
+	Autofit	Automaattinen sovitus
+	Automatic bulleted and numbered lists	Automaattiset luettelomerkit ja numeroinnit
+	Available formats:	Käytettävissä olevat muodot:
+	Back	Takaisin
+	Back (Esc)	Takaisin (Esc)
+	Background\nStyles	Taustan\ntyylit
+	Banded Columns	Raidalliset sarakkeet
+	Banded Rows	Raidalliset rivit
+	Blank Presentation	Tyhjä esitys
+	Body:	Leipäteksti:
+	Bring\nForward	Tuo\neteenpäin
+	Browse for Themes…	Selaa teemoja…
+	Bullets	Luettelomerkit
+	Bullets and Numbering	Luettelomerkit ja numerointi
+	Bullets and Numbering…	Luettelomerkit ja numerointi…
+	Camera capture is not available yet	Kameralla kuvaaminen ei ole vielä käytettävissä
+	Capitalize first letter of sentences	Iso alkukirjain virkkeen alkuun
+	Capitalize names of days	Viikonpäivien nimet isolla alkukirjaimella
+	Caps	Versaalit
+	Captions under pictures	Kuvatekstit kuvien alle
+	Cell Margins	Solun reunukset
+	Change Chart Type	Vaihda kaaviotyyppi
+	Change Colors	Vaihda värit
+	Change File Type	Vaihda tiedostotyyppi
+	Change Layout	Vaihda asettelu
+	Change Picture	Vaihda kuva
+	Change Picture…	Vaihda kuva…
+	Change Shape	Vaihda muoto
+	Change Spelling	Korjaa kirjoitusasu
+	Change to:	Muuta muotoon:
+	Change\nChart Type	Vaihda\nkaaviotyyppi
+	Character Spacing	Merkkiväli
+	Chart	Kaavio
+	Chart cell	Kaavion solu
+	Chart Data	Kaavion tiedot
+	Chart Design	Kaavion rakenne
+	Chart Elements	Kaavion osat
+	Chart…	Kaavio…
+	Check for Updates…	Tarkista päivitykset…
+	Check\nAccessibility	Tarkista\nsaavutettavuus
+	Choose a SmartArt Graphic	Valitse SmartArt-grafiikka
+	Choosing a presentation to reuse needs the desktop app	Uudelleenkäytettävän esityksen valitseminen vaatii työpöytäsovelluksen
+	Choosing a sound file needs the desktop app	Äänitiedoston valitseminen vaatii työpöytäsovelluksen
+	Clear All Formatting	Poista kaikki muotoilut
+	Click a colour in the picture to make it transparent	Napsauta kuvan väriä, niin siitä tulee läpinäkyvä
+	Click a symbol to insert it at the insertion point.	Napsauta symbolia, niin se lisätään lisäyskohtaan.
+	Click the slide to take the colour under the pointer	Napsauta diaa, niin osoittimen alla oleva väri otetaan käyttöön
+	Click to add notes	Lisää muistiinpanoja napsauttamalla
+	Click to add text	Lisää tekstiä napsauttamalla
+	Click to change this one; Shift-click to change all	Napsautus muuttaa tämän kohdan, Vaihto+napsautus muuttaa kaikki
+	Close Path	Sulje polku
+	Close\nMaster View	Sulje\npohjanäkymä
+	Collapse the Ribbon	Pienennä valintanauha
+	Columns…	Sarakkeet…
+	Command Palette	Komentopaletti
+	Community Links	Yhteisön linkit
+	Compare this presentation with a revised copy from Review › Compare.	Vertaa tätä esitystä muokattuun kopioon kohdasta Tarkista › Vertaa.
+	Compare…	Vertaa…
+	Compress	Pakkaa
+	Compress Pictures	Pakkaa kuvat
+	Compression options	Pakkausasetukset
+	Connect Shapes	Yhdistä muodot viivalla
+	Convert to Shapes	Muunna muodoiksi
+	Convert to SmartArt	Muunna SmartArtiksi
+	Convert to Text	Muunna tekstiksi
+	Copy path	Kopioi polku
+	Correct accidental use of cAPS LOCK key	Korjaa vahingossa päälle jääneen cAPS LOCK -näppäimen jäljet
+	Correct TWo INitial CApitals	Korjaa KAksi ISoa ALkukirjainta
+	Corrections	Korjaukset
+	Create a PDF Document	Luo PDF-asiakirja
+	Create Handouts	Luo monisteet
+	Create New Theme Colors	Luo uudet teemavärit
+	Create New Theme Fonts	Luo uudet teemafontit
+	Crop to Shape	Rajaa muotoon
+	Custom character:	Mukautettu merkki:
+	Custom Show 1	Mukautettu esitys 1
+	Custom Shows	Mukautetut esitykset
+	Custom Slide Show	Mukautettu diaesitys
+	Custom\nShow	Mukautettu\nesitys
+	Customize Colors…	Mukauta värit…
+	Customize Fonts…	Mukauta fontit…
+	Customize Quick Access Toolbar	Mukauta pikatyökaluriviä
+	Dark appearance	Tumma ulkoasu
+	Dark Mode	Tumma tila
+	Dark\nMode	Tumma\ntila
+	Dash	Katkoviiva
+	Date & Time	Päivämäärä ja aika
+	Date &\nTime	Päivämäärä\nja aika
+	Date and time	Päivämäärä ja aika
+	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	DeckCraftissa ei ole käyttäjätilejä: mihinkään ei tarvitse kirjautua, ja esityksesi pysyvät laitteellasi.
+	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft tulostaa PDF:n kautta: tiedosto ladataan, ja voit tulostaa sen selaimesta tai PDF-katseluohjelmasta.
+	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft tulostaa PDF:n kautta: tiedosto avautuu PDF-katseluohjelmaan, jossa valitset tulostimen.
+	Decrease List Level	Vähennä luettelotasoa
+	Decrease {label}	Pienennä: {label}
+	Default tab stops (in):	Oletussarkainkohdat (tuumaa):
+	Delay	Viive
+	Delay:	Viive:
+	Delete Columns	Poista sarakkeet
+	Delete Comment	Poista kommentti
+	Delete cropped areas of pictures	Poista kuvien rajatut alueet
+	Delete Guide	Poista apuviiva
+	Delete Layout	Poista asettelu
+	Delete Point	Poista piste
+	Delete Repeated Word	Poista toistettu sana
+	Delete Rows	Poista rivit
+	Delete Segment	Poista segmentti
+	Delete Slide	Poista dia
+	Delete Table	Poista taulukko
+	Delete Text	Poista teksti
+	Demote	Laske tasoa
+	Design	Rakenne
+	Design\nIdeas	Suunnittelu-\nideat
+	Display drawing guides on screen	Näytä piirtämisen apuviivat näytössä
+	Display grid on screen	Näytä ruudukko näytössä
+	Distribute Columns	Tasaa sarakkeiden leveys
+	Distribute Horizontally	Jaa tasaisesti vaakasuunnassa
+	Distribute Rows	Tasaa rivien korkeus
+	Distribute Vertically	Jaa tasaisesti pystysuunnassa
+	Distributed	Tasajaettu
+	Do not check spelling or grammar	Älä tarkista oikeinkirjoitusta tai kielioppia
+	Don't show on title slide	Älä näytä otsikkodiassa
+	Double	Kaksinkertainen
+	Draw Table	Piirrä taulukko
+	Duplicate Selected Slides	Monista valitut diat
+	Duplicate Slide	Monista dia
+	Duration	Kesto
+	Duration:	Kesto:
+	e.g. 1-3, 5	esim. 1-3, 5
+	Edit Alt Text…	Muokkaa vaihtoehtoista tekstiä…
+	Edit Data	Muokkaa tietoja
+	Edit Photo Album…	Muokkaa valokuva-albumia…
+	Edit Points	Muokkaa pisteitä
+	Edit SmartArt Text	Muokkaa SmartArt-tekstiä
+	Edit Text	Muokkaa tekstiä
+	Edit the data: first row = series names, first column = categories.	Muokkaa tietoja: ensimmäinen rivi = arvosarjojen nimet, ensimmäinen sarake = luokat.
+	Edit\nData	Muokkaa\ntietoja
+	Edit\nShape	Muokkaa\nmuotoa
+	Effect Options	Tehosteen asetukset
+	Effect\nOptions	Tehosteen\nasetukset
+	Email address:	Sähköpostiosoite:
+	End Review	Lopeta tarkistus
+	End Show	Lopeta esitys
+	End trim (s):	Lyhennä lopusta (s):
+	End\nReview	Lopeta\ntarkistus
+	Equation	Kaava
+	Exit Edit Points	Lopeta pisteiden muokkaus
+	Export the presentation as:	Vie esitys muodossa:
+	Fade in (s):	Häivytys sisään (s):
+	Fade out (s):	Häivytys ulos (s):
+	Find what:	Etsittävä:
+	Find whole words only	Etsi vain kokonaisia sanoja
+	First Column	Ensimmäinen sarake
+	First line	Ensimmäinen rivi
+	Fit slide to current window	Sovita dia nykyiseen ikkunaan
+	Fit to Window	Sovita ikkunaan
+	Fit to\nWindow	Sovita\nikkunaan
+	Follow Path	Seuraa polkua
+	Font Color	Fontin väri
+	Font name	Fontin nimi
+	Font…	Fontti…
+	Footer	Alatunniste
+	Footers	Alatunnisteet
+	For rectangles and rounded rectangles	Suorakulmioille ja pyöristetyille suorakulmioille
+	Format Background	Muotoile tausta
+	Format Background…	Muotoile tausta…
+	Format Painter (double-click to keep it on)	Muotoilusivellin (kaksoisnapsautus pitää sen käytössä)
+	Format Shape…	Muotoile muoto…
+	Format\nBackground	Muotoile\ntausta
+	Format\nPane	Muotoilu-\npaneeli
+	Frame shape	Kehyksen muoto
+	Frame Slides	Kehystä diat
+	Freeform	Vapaa muoto
+	From slide:	Diasta:
+	From the top-left corner of the slide	Dian vasemmasta yläkulmasta
+	From\nBeginning	Alusta\nalkaen
+	From\nCurrent Slide	Nykyisestä\ndiasta
+	Go to	Siirry
+	Gradient bar	Liukuväripalkki
+	Gradient stops	Liukuvärin pysäytyskohdat
+	Gradient…	Liukuväri…
+	Grid Options	Ruudukon asetukset
+	Grid Options…	Ruudukon asetukset…
+	Grid\nOptions	Ruudukon\nasetukset
+	Gridlines	Ruudukkoviivat
+	Group Objects	Ryhmitä objektit
+	Handout Master	Monistepohja
+	Handout Placeholders	Monisteen paikkamerkit
+	Handout\nMaster	Moniste-\npohja
+	Hanging	Riippuva
+	Header &\nFooter	Ylä- ja\nalatunniste
+	Header and Footer	Ylä- ja alatunniste
+	Header and Footer…	Ylä- ja alatunniste…
+	Header Row	Otsikkorivi
+	Heading and body fonts for this presentation.	Tämän esityksen otsikko- ja leipätekstifontit.
+	Heading:	Otsikko:
+	Heavy	Paksu
+	Height ({abbr}):	Korkeus ({abbr}):
+	Hide background graphics	Piilota taustagrafiikka
+	Hide Background Graphics	Piilota taustagrafiikka
+	Hide During Show	Piilota esityksen aikana
+	Hide Slide	Piilota dia
+	Hide\nSlide	Piilota\ndia
+	Highlight click	Korosta napsautus
+	How would you describe this object and its context to someone who is blind or has low vision?	Miten kuvailisit tämän objektin ja sen asiayhteyden sokealle tai heikkonäköiselle?
+	Icons	Kuvakkeet
+	Include hidden slides	Sisällytä piilotetut diat
+	Increase List Level	Lisää luettelotasoa
+	Increase {label}	Suurenna: {label}
+	Indentation	Sisennys
+	Ink to Math (coming soon)	Käsinkirjoitus kaavaksi (tulossa pian)
+	Ink to Shape	Käsinkirjoitus muodoksi
+	Ink to Shape: turn drawn lines, rectangles, ovals and triangles into shapes	Käsinkirjoitus muodoksi: muuta piirretyt viivat, suorakulmiot, soikiot ja kolmiot muodoiksi
+	Ink to Text (coming soon)	Käsinkirjoitus tekstiksi (tulossa pian)
+	Ink to\nMath	Käsinkirjoitus\nkaavaksi
+	Ink to\nShape	Käsinkirjoitus\nmuodoksi
+	Ink to\nText	Käsinkirjoitus\ntekstiksi
+	Insert Above	Lisää yläpuolelle
+	Insert Below	Lisää alapuolelle
+	Insert Hyperlink	Lisää hyperlinkki
+	Insert Layout	Lisää asettelu
+	Insert Left	Lisää vasemmalle
+	Insert Picture	Lisää kuva
+	Insert picture from file…	Lisää kuva tiedostosta…
+	Insert Picture in SmartArt	Lisää kuva SmartArtiin
+	Insert Picture in SmartArt…	Lisää kuva SmartArtiin…
+	Insert Placeholder	Lisää paikkamerkki
+	Insert Right	Lisää oikealle
+	Insert Synonym	Lisää synonyymi
+	Insert Table	Lisää taulukko
+	Insert Table…	Lisää taulukko…
+	Insert\nAbove	Lisää\nyläpuolelle
+	Insert\nBelow	Lisää\nalapuolelle
+	Insert\nLayout	Lisää\nasettelu
+	Insert\nLeft	Lisää\nvasemmalle
+	Insert\nPlaceholder	Lisää\npaikkamerkki
+	Insert\nRight	Lisää\noikealle
+	Insert…	Lisää…
+	Interface language:	Käyttöliittymän kieli:
+	Interface size	Käyttöliittymän koko
+	Join our community on Discord	Liity yhteisöömme Discordissa
+	Join the ArtCraft community on Discord	Liity ArtCraft-yhteisöön Discordissa
+	Justify low	Tasaa molemmat reunat (pieni venytys)
+	Keep source formatting	Säilytä alkuperäinen muotoilu
+	Keeps the layout, fonts and pictures	Säilyttää asettelun, fontit ja kuvat
+	Language for All Text	Kieli kaikelle tekstille
+	Last Column	Viimeinen sarake
+	Layout Placeholders	Asettelun paikkamerkit
+	Learn\nMore	Lue\nlisää
+	Leave the slide background out: only what is on the slide is drawn	Jätä dian tausta pois: vain dian sisältö piirretään
+	Less Brightness	Vähemmän kirkkautta
+	Less Contrast	Vähemmän kontrastia
+	Light/Dark appearance	Vaalea/tumma ulkoasu
+	Line Spacing	Riviväli
+	Line Spacing Options…	Rivivälin asetukset…
+	Lock aspect ratio	Lukitse kuvasuhde
+	Loop continuously until 'Esc'	Toista jatkuvasti, kunnes painetaan Esc
+	Loop forever	Toista loputtomasti
+	Loop until Stopped	Toista, kunnes pysäytetään
+	Margins (pt)	Reunukset (pt)
+	Mark as decorative	Merkitse koristeelliseksi
+	Match case	Sama kirjainkoko
+	Maximize content (else ensure fit)	Suurenna sisältö (muuten varmista, että se mahtuu)
+	Measurement units:	Mittayksiköt:
+	Media position	Median sijainti
+	Merge Shapes	Yhdistä muodot
+	Merge\nCells	Yhdistä\nsolut
+	Merge\nShapes	Yhdistä\nmuodot
+	MIT OR Apache-2.0 · © 2026 ArtCraft Team and the DeckCraft contributors	MIT OR Apache-2.0 · © 2026 ArtCraft-tiimi ja DeckCraftin tekijät
+	Month names and AM/PM are listed for English. Other languages list the numeric date and 24-hour time.	Kuukausien nimet ja AM/PM luetellaan englanniksi. Muilla kielillä päivämäärä näytetään numeroina ja kellonaika 24 tunnin muodossa.
+	More Brightness	Enemmän kirkkautta
+	More Colors… #	Muut värit… #
+	More Columns…	Muut sarakkeet…
+	More Contrast	Enemmän kontrastia
+	More presentations	Muita esityksiä
+	More templates	Muita mallipohjia
+	More themes	Muita teemoja
+	Move Guide	Siirrä apuviivaa
+	Move Handle	Siirrä kahvaa
+	Move Point	Siirrä pistettä
+	Move Section	Siirrä osiota
+	Move Section Down	Siirrä osiota alaspäin
+	Move Section Up	Siirrä osiota ylöspäin
+	Move Slide	Siirrä diaa
+	New Comment	Uusi kommentti
+	New Photo Album…	Uusi valokuva-albumi…
+	New show name:	Uuden esityksen nimi:
+	New Slide	Uusi dia
+	New Slide (⇧⌘N)	Uusi dia (⇧⌘N)
+	New Text Box	Uusi tekstiruutu
+	New\nComment	Uusi\nkommentti
+	New\nSlide	Uusi\ndia
+	New\nWindow	Uusi\nikkuna
+	No accessibility issues found. People with disabilities should not have difficulty reading this document.	Saavutettavuusongelmia ei löytynyt. Toimintarajoitteisten ihmisten pitäisi pystyä lukemaan tämä asiakirja ongelmitta.
+	No comments.	Ei kommentteja.
+	No contributor data was built into this copy.	Tähän versioon ei ole sisällytetty tekijätietoja.
+	No differences left.	Eroja ei ole jäljellä.
+	No Glow	Ei hehkua
+	No icons match.	Ei vastaavia kuvakkeita.
+	No model credits were built into this copy.	Tähän versioon ei ole sisällytetty mallien tekijätietoja.
+	No notes.	Ei muistiinpanoja.
+	No pictures yet	Ei vielä kuvia
+	No presentation is open.	Yhtään esitystä ei ole avattu.
+	Not a copy of this presentation: slides are matched by position.	Ei tämän esityksen kopio: diat vastaavat toisiaan sijaintinsa mukaan.
+	Not saved yet	Ei vielä tallennettu
+	Notes	Muistiinpanot
+	Notes Master	Muistiinpanopohja
+	Notes Page	Muistiinpanosivu
+	Notes Placeholders	Muistiinpanojen paikkamerkit
+	Notes\nMaster	Muistiinpano-\npohja
+	Nothing to print: every slide in the range is hidden.	Ei tulostettavaa: kaikki alueen diat on piilotettu.
+	Nudge	Siirrä hieman
+	Number of columns:	Sarakkeiden määrä:
+	Number of rows:	Rivien määrä:
+	Number:	Numero:
+	Numbering	Numerointi
+	On Click of… (none)	Napsautettaessa… (ei mitään)
+	On Mouse Click	Hiiren napsautuksella
+	Open a presentation from a folder (Ctrl+O)	Avaa esitys kansiosta (Ctrl+O)
+	Open another window on this presentation	Avaa tähän esitykseen toinen ikkuna
+	Open Dialog	Avaa valintaikkuna
+	Open file location	Avaa tiedoston sijainti
+	Open Path	Avaa polku
+	Open source under MIT OR Apache-2.0. Not affiliated with Microsoft.	Avointa lähdekoodia lisenssillä MIT OR Apache-2.0. Ei yhteydessä Microsoftiin.
+	Opens on any device with a PDF viewer	Avautuu missä tahansa laitteessa, jossa on PDF-katseluohjelma
+	Order Objects	Järjestä objektit
+	Ordinals (1st) with superscript	Järjestyslukujen päätteet (1st) yläindeksiin
+	Other Sound…	Muu ääni…
+	Outline	Jäsennys
+	Outline View	Jäsennysnäkymä
+	Page Setup…	Sivun asetukset…
+	Paper size	Paperikoko
+	Paragraph…	Kappale…
+	Paste (⌘V)	Liitä (⌘V)
+	Paste and Match Formatting	Liitä ja sovita muotoiluun
+	Paste Formatting	Liitä muotoilu
+	Paste or type an outline. Unindented lines become slide titles; tab-indented lines become bullets.	Liitä tai kirjoita jäsennys. Sisentämättömistä riveistä tulee diojen otsikoita, sarkaimella sisennetyistä luettelokohtia.
+	Paste Special…	Liitä määräten…
+	Pause animated GIF	Pysäytä animoitu GIF
+	Percent:	Prosentti:
+	Photo Album	Valokuva-albumi
+	Photo Album options	Valokuva-albumin asetukset
+	Photo Album…	Valokuva-albumi…
+	Photo\nAlbum	Valokuva-\nalbumi
+	Pick a design for this slide. Ideas are generated on your device.	Valitse tälle dialle rakenne. Ideat luodaan laitteellasi.
+	Pick a graphic; type one item per line.	Valitse grafiikka ja kirjoita yksi kohde riville.
+	Picture	Kuva
+	Picture Border	Kuvan reunaviiva
+	Picture Format	Kuvan muotoilu
+	Picture from File…	Kuva tiedostosta…
+	Picture layout	Kuvien asettelu
+	Picture source	Kuvan lähde
+	Picture Styles	Kuvatyylit
+	Pictures	Kuvat
+	Pictures in album	Albumin kuvat
+	Play Across Slides	Toista diojen yli
+	Play animated GIF	Toista animoitu GIF
+	Play from\nCurrent Slide	Toista nykyisestä\ndiasta
+	Play from\nStart	Toista\nalusta
+	Play Full Screen	Toista koko näytössä
+	Play Narrations	Toista kerronnat
+	Play this slide's animations on the canvas	Toista tämän dian animaatiot piirtoalueella
+	Playback	Toisto
+	Point Type	Pisteen tyyppi
+	Position and Size	Sijainti ja koko
+	Position Objects	Sijoita objektit
+	Post	Lähetä
+	Poster Frame	Esikatselukuva
+	Presentations	Esitykset
+	Presentations and slide shows, rebuilt from scratch in pure Rust.	Esityksiä ja diaesityksiä, rakennettu alusta alkaen puhtaalla Rustilla.
+	Presentations you open show up here. Use Open to browse for one.	Avaamasi esitykset näkyvät tässä. Etsi esitys valitsemalla Avaa.
+	Presenter View	Esittäjänäkymä
+	Presenter\nView	Esittäjä-\nnäkymä
+	Preset gradients	Valmiit liukuvärit
+	Preview Animations	Esikatsele animaatiot
+	Print Hidden Slides	Tulosta piilotetut diat
+	Print layout	Tulostusasettelu
+	Print layout:	Tulostusasettelu:
+	Print range	Tulostusalue
+	Print them for your audience	Tulosta ne yleisöllesi
+	Product Information	Tuotetiedot
+	Program:	Ohjelma:
+	Promote	Nosta tasoa
+	Put a picture in the selected node's picture placeholder	Lisää kuva valitun solmun kuvan paikkamerkkiin
+	Quick Access Toolbar	Pikatyökalurivi
+	Quick Styles	Pikatyylit
+	Quick\nStyles	Pika-\ntyylit
+	Reading View	Lukunäkymä
+	Recolor	Väritä uudelleen
+	Record	Nauhoita
+	Recording narration needs audio capture (coming soon)	Kerronnan nauhoittaminen vaatii äänen tallennuksen (tulossa pian)
+	Recover Unsaved Presentations	Palauta tallentamattomat esitykset
+	Reflection	Heijastus
+	Regroup	Ryhmitä uudelleen
+	Rehearse\nTimings	Harjoittele\najoitukset
+	Reject	Hylkää
+	Remove All Animations	Poista kaikki animaatiot
+	Remove All Sections	Poista kaikki osiot
+	Remove Animation	Poista animaatio
+	Remove bullets and numbering	Poista luettelomerkit ja numerointi
+	Remove from Quick Access Toolbar	Poista pikatyökaluriviltä
+	Remove from Recent	Poista viimeisimmistä
+	Remove Section	Poista osio
+	Remove Section & Slides	Poista osio ja diat
+	Remove Shape	Poista muoto
+	Remove stop	Poista pysäytyskohta
+	Remove the picture style	Poista kuvatyyli
+	Remove\nBackground	Poista\ntausta
+	Rename Layout	Nimeä asettelu uudelleen
+	Rename Section	Nimeä osio uudelleen
+	Rename Section…	Nimeä osio uudelleen…
+	Rename Slide	Nimeä dia uudelleen
+	Reopen	Avaa uudelleen
+	Reorder Animation	Järjestä animaatio uudelleen
+	Reorder Objects	Järjestä objektit uudelleen
+	Repeated word	Toistettu sana
+	Replace All	Korvaa kaikki
+	Replace Font	Korvaa fontti
+	Replace Fonts	Korvaa fontit
+	Replace Fonts…	Korvaa fontit…
+	Replace fractions (1/2) with fraction characters (½)	Korvaa murtoluvut (1/2) murtolukumerkeillä (½)
+	Replace straight quotes with smart quotes	Korvaa suorat lainausmerkit kaarevilla
+	Replace text as you type	Korvaa tekstiä kirjoitettaessa
+	Replace with:	Korvaava teksti:
+	Replace…	Korvaa…
+	Reply…	Vastaa…
+	Rescan Installed Fonts	Lue asennetut fontit uudelleen
+	Reset 3-D	Palauta 3D
+	Reset Background	Palauta tausta
+	Reset Effects	Palauta tehosteet
+	Reset Picture	Palauta kuva
+	Reset Slide	Palauta dia
+	Reset Slide Background	Palauta dian tausta
+	Reset Style	Palauta tyyli
+	Reset to Defaults	Palauta oletukset
+	Resolve	Ratkaise
+	Resolve Thread	Ratkaise keskustelu
+	Reuse Slides	Käytä dioja uudelleen
+	Reuse Slides…	Käytä dioja uudelleen…
+	Rewind after Playing	Kelaa toiston jälkeen alkuun
+	Ribbon Tab	Valintanauhan välilehti
+	Right-click any ribbon button to add it.	Lisää valintanauhan painike napsauttamalla sitä hiiren kakkospainikkeella.
+	Right-to-Left Text Direction	Tekstin suunta oikealta vasemmalle
+	Rotate Left	Kierrä vasemmalle
+	Rotate Left 90°	Kierrä 90° vasemmalle
+	Rotate Right	Kierrä oikealle
+	Rotate Right 90°	Kierrä 90° oikealle
+	Rotate with shape	Kierrä muodon mukana
+	Save as type	Tallennusmuoto
+	Scheme name	Värimallin nimi
+	Screenshot	Kuvakaappaus
+	Screenshot (not available yet)	Kuvakaappaus (ei vielä käytettävissä)
+	ScreenTip:	Työkaluvihje:
+	Scroll ribbon left	Vieritä valintanauhaa vasemmalle
+	Scroll ribbon right	Vieritä valintanauhaa oikealle
+	Search commands (⇧⌘P)	Hae komentoja (⇧⌘P)
+	Search commands…	Hae komentoja…
+	Search for a file	Hae tiedostoa
+	Search for a word	Hae sanaa
+	Search for themes and templates	Hae teemoja ja mallipohjia
+	Search icons	Hae kuvakkeita
+	Seconds per slide:	Sekuntia diaa kohden:
+	Section	Osio
+	Segment Type	Segmentin tyyppi
+	Select a chart first.	Valitse ensin kaavio.
+	Select a shape to format it.	Valitse muoto, jonka haluat muotoilla.
+	Select a SmartArt graphic to edit its text.	Valitse SmartArt-grafiikka, jonka tekstiä haluat muokata.
+	Select a word on the slide, or type one above.	Valitse sana diasta tai kirjoita sana yläpuolelle.
+	Select an object on the slide and add an animation from the Animations tab.	Valitse dialta objekti ja lisää sille animaatio Animaatiot-välilehdeltä.
+	Select None	Poista valinnat
+	Selection Pane…	Valintapaneeli…
+	Selection\nPane	Valinta-\npaneeli
+	Send\nBackward	Vie\ntaaksepäin
+	Set as Default Shape	Aseta oletusmuodoksi
+	Set Text	Aseta teksti
+	Set Transparent Color	Määritä läpinäkyvä väri
+	Set Up Slide Show	Diaesityksen asetukset
+	Set Up Slide Show…	Diaesityksen asetukset…
+	Set Up\nSlide Show	Diaesityksen\nasetukset
+	Set Zoom	Määritä zoomaus
+	Several slides on each page of a PDF	Useita dioja PDF:n jokaisella sivulla
+	Shading	Sävytys
+	Shape Fill	Muodon täyttö
+	Shape Format	Muodon muotoilu
+	Shape Outline	Muodon ääriviiva
+	Shape\nStyles	Muoto-\ntyylit
+	Show Media Controls	Näytä mediaohjaimet
+	Show smart guides	Näytä älykkäät apuviivat
+	Show type	Esityksen tyyppi
+	Show without animation	Esitä ilman animaatioita
+	Show without narration	Esitä ilman kerrontaa
+	Show/Hide	Näytä/piilota
+	Show\nComments	Näytä\nkommentit
+	Single	Yksinkertainen
+	Size (% of text):	Koko (% tekstistä):
+	Size and Position	Koko ja sijainti
+	Size and Position…	Koko ja sijainti…
+	Slide Master	Diapohja
+	Slide number	Dianumero
+	Slide Number	Dianumero
+	Slide Show	Diaesitys
+	Slide Size	Dian koko
+	Slide Sorter	Dialajittelu
+	Slide {n} of {total}	Dia {n}/{total}
+	Slide\nMaster	Dia-\npohja
+	Slide\nNumber	Dia-\nnumero
+	Slide\nSize	Dian\nkoko
+	Slides	Diat
+	Slides (e.g. 1,3,5):	Diat (esim. 1,3,5):
+	Slides from Outline	Diat jäsennyksestä
+	Slides from Outline…	Diat jäsennyksestä…
+	Slides per page	Dioja sivulla
+	Slides sized for:	Diojen koko:
+	Slides:	Diat:
+	Small caps	Kapiteelit
+	SmartArt Design	SmartArt-rakenne
+	SmartArt items	SmartArt-kohteet
+	SmartArt Styles	SmartArt-tyylit
+	SmartArt text	SmartArt-teksti
+	Smooth Corners	Pyöristetyt kulmat
+	Snap	Kohdistus
+	Snap objects to grid	Kohdista objektit ruudukkoon
+	Snap objects to other objects	Kohdista objektit muihin objekteihin
+	Soft Edges	Pehmeät reunat
+	Spacing (in):	Välistys (tuumaa):
+	Spacing (pt):	Välistys (pt):
+	Spelling is checked for languages marked (dictionary).	Oikeinkirjoitus tarkistetaan kielille, joiden kohdalla on merkintä (dictionary).
+	Split Cells	Jaa solut
+	Split\nCells	Jaa\nsolut
+	Standard Colors	Vakiovärit
+	Start Automatically	Käynnistä automaattisesti
+	Start time (s):	Aloitusaika (s):
+	System language	Järjestelmän kieli
+	Tab stop position (in):	Sarkainkohdan sijainti (tuumaa):
+	Tab stops:	Sarkainkohdat:
+	Table Design	Taulukon rakenne
+	Table Eraser	Taulukon pyyhekumi
+	Table Style Options	Taulukkotyylin asetukset
+	Table Styles	Taulukkotyylit
+	Table…	Taulukko…
+	Tabs…	Sarkaimet…
+	Task Pane	Tehtäväpaneeli
+	Text Box	Tekstiruutu
+	Text Box Margins	Tekstiruudun reunukset
+	Text box:	Tekstiruutu:
+	Text Direction	Tekstin suunta
+	Text Effects	Tekstitehosteet
+	Text Fill	Tekstin täyttö
+	Text Highlight Color	Tekstin korostusväri
+	Text Outline	Tekstin ääriviiva
+	Text ruler	Tekstiviivain
+	Text Shadow	Tekstin varjo
+	Text Transform	Tekstin muunnos
+	Text Transparency	Tekstin läpinäkyvyys
+	Text\nBox	Teksti-\nruutu
+	Text\nPane	Teksti-\npaneeli
+	The presentation keeps its own file	Esitys säilyttää oman tiedostonsa
+	The spelling check is complete. No issues found.	Oikeinkirjoituksen tarkistus on valmis. Ongelmia ei löytynyt.
+	Theme Colors	Teemavärit
+	Themes	Teemat
+	Themes (whole presentation)	Teemat (koko esitys)
+	This presentation has no custom shows (Slide Show ▸ Custom Slide Show).	Tässä esityksessä ei ole mukautettuja esityksiä (Diaesitys ▸ Mukautettu diaesitys).
+	Three a page leaves lines for notes	Kolme sivulle jättää viivoja muistiinpanoille
+	Tile picture as texture	Toista kuvaa tekstuurina
+	Timing	Ajoitus
+	To slide:	Diaan:
+	Total Row	Summarivi
+	Transition	Siirtymä
+	Transitions	Siirtymät
+	Translation needs a language model (not bundled)	Kääntäminen vaatii kielimallin (ei sisälly)
+	Transparent background	Läpinäkyvä tausta
+	Trigger	Käynnistin
+	Trim	Lyhennä
+	Trim Media	Lyhennä mediaa
+	Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	Kirjoita kaava lineaarisessa muodossa (esim. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).
+	Type and organise the diagram's text	Kirjoita ja järjestä kaavion teksti
+	Type Text	Kirjoita teksti
+	Type your text here	Kirjoita teksti tähän
+	Update automatically	Päivitä automaattisesti
+	Use Timings	Käytä ajoituksia
+	Use timings, if present	Käytä ajoituksia, jos niitä on
+	User Information	Käyttäjätiedot
+	Variants	Muunnelmat
+	Vertical alignment	Pystytasaus
+	Video from File…	Video tiedostosta…
+	Volume	Äänenvoimakkuus
+	Wavy	Aaltoileva
+	Widescreen (16:9)	Laajakuva (16:9)
+	Width (pixels):	Leveys (pikseliä):
+	Width ({abbr}):	Leveys ({abbr}):
+	Width: 	Leveys: 
+	Window title bar	Ikkunan otsikkorivi
+	With	Tilalle
+	With:	Tilalle:
+	Wrap text in shape	Rivitä teksti muodon sisällä
+	Wrap Text in Shape	Rivitä teksti muodon sisällä
+	Your name (comments):	Nimesi (kommentit):
+	Zoom level	Zoomaustaso
+	Zoom to	Zoomaus
+	{label} value	Arvo: {label}
+	{name} options	Asetukset: {name}
